@@ -37,8 +37,10 @@ Atualmente estou no último ano da faculdade (TCC), focado em arquitetura de sof
 
 ## 📈 Atividade no GitHub:
 
+![Gráfico de Contribuições](https://ghchart.rshah.org/dracula/IgorPorpeto)
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPorpeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorPorpeto&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas de Igor" />
 </p>
 
 ---
