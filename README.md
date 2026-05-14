@@ -39,11 +39,10 @@ Atualmente estou no último ano da faculdade (TCC), focado em arquitetura de sof
 
 ![Gráfico de Contribuições](https://ghchart.rshah.org/dracula/IgorPorpeto)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorPorpeto&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas de Igor" />
-</p>
-
 ---
 
-📫 **Vamos conversar:**
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorporpeto/)
+## 📫 Contato:
+
+- **LinkedIn:** [Igor Porpeto](https://www.linkedin.com/in/igorporpeto/)
+- **E-mail:** [porpetomax@gmail.com](mailto:porpetomax@gmail.com)
+- **Instagram:** [@igorporpeto](https://www.instagram.com/igorporpeto/)
